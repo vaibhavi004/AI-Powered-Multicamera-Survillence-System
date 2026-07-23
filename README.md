@@ -85,7 +85,7 @@ The developed system successfully:
 
 ## 📸 Output
 
-Add screenshots here.
+
 
 Example:
 
@@ -95,6 +95,14 @@ Example:
 - Face Recognition
 - Multi-Camera Tracking
 - GUI Dashboard
+
+## 📸 Home Screen
+
+![Home Screen](screenshots/Picture7.jpg)
+
+## 👤 Person Detection
+
+![Person Detection](screenshots/person_detection.png)
 
 ---
 
