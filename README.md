@@ -1,5 +1,9 @@
 # AI Powered Multi-Camera Surveillance System
-
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red?logo=opencv)
+![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-green)
+![FaceNet](https://img.shields.io/badge/FaceNet-Face%20Recognition-orange)
+![SQLite](https://img.shields.io/badge/SQLite-Database-blue?logo=sqlite)
 An AI-powered surveillance system that performs **real-time person detection, face recognition, and person re-identification** across multiple camera feeds. The system leverages deep learning and computer vision techniques to enhance surveillance by identifying individuals, tracking them across cameras, and providing an intuitive graphical interface for monitoring.
 
 ---
