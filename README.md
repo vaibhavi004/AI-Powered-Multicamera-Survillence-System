@@ -88,40 +88,42 @@ The developed system successfully:
 
 
 
-Example:
-
-- Home Screen
-- Person Detection
-- Face Detection
-- Face Recognition
-- Multi-Camera Tracking
-- GUI Dashboard
-
-## 📸 Home Screen
-
-![Home Screen](screenshots/Picture7.jpg)
-
-## 👤 Person Detection
-
-![Person Detection](screenshots/Picture2.png)
-
-## 😊 Face Detection using Yunet
-
-![Face Detection](screenshots/Picture3.png)
-
-## 😊 Face Recognition using Facenet
-
-![Face Recognition](screenshots/Picture4.png)
-
 <table align="center">
   <tr>
+    <td align="center">
+      <img src="screenshots/Picture7.jpg" width="400"><br>
+      <b>Home Screen</b>
+    </td>
     <td align="center">
       <img src="screenshots/Picture2.png" width="400"><br>
       <b>Person Detection</b>
     </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
     <td align="center">
       <img src="screenshots/Picture3.png" width="400"><br>
-      <b>Face Detection</b>
+      <b>Face Detection using Yunet</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/Picture4.png" width="400"><br>
+      <b>Face Recognition using Facentnet</b>
+    </td>
+  </tr>
+</table>
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="screenshots/Picture5.png" width="400"><br>
+      <b>Clothing Based Re-identification</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/Picture6.png" width="400"><br>
+      <b>Clothing Based Re-identification</b>
     </td>
   </tr>
 </table>
