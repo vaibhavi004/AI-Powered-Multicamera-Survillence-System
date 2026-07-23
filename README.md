@@ -103,15 +103,15 @@ Example:
 
 ## 👤 Person Detection
 
-![Person Detection](screenshots/Picture2.jpg)
+![Person Detection](screenshots/Picture2.png)
 
 ## 😊 Face Detection using Yunet
 
-![Face Detection](screenshots/Picture3.jpg)
+![Face Detection](screenshots/Picture3.png)
 
 ## 😊 Face Recognition using Facenet
 
-![Face Recognition](screenshots/Picture4.jpg)
+![Face Recognition](screenshots/Picture4.png)
 
 
 ---
