@@ -113,7 +113,11 @@ Example:
 
 ![Face Recognition](screenshots/Picture4.png)
 
-
+<p align="center">
+  <img src="screenshots/Picture2.png" width="32%" />
+  <img src="screenshots/Picture3.png" width="32%" />
+  <img src="screenshots/Picture4.png" width="32%" />
+</p>
 ---
 
 ## 🔮 Future Enhancements
