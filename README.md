@@ -49,7 +49,7 @@ The system combines object detection, face recognition, and person re-identifica
 7. Identify known individuals.
 8. Perform clothing-based person re-identification.
 9. Display results in the graphical user interface.
-![Home Screen](screenshots/Picture1.jpg)
+
 
 ---
 
@@ -103,7 +103,16 @@ Example:
 
 ## 👤 Person Detection
 
-![Person Detection](screenshots/person_detection.png)
+![Person Detection](screenshots/Picture2.jpg)
+
+## 😊 Face Detection using Yunet
+
+![Face Detection](screenshots/Picture3.jpg)
+
+## 😊 Face Recognition using Facenet
+
+![Face Recognition](screenshots/Picture4.jpg)
+
 
 ---
 
