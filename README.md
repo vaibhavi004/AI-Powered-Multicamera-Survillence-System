@@ -49,6 +49,7 @@ The system combines object detection, face recognition, and person re-identifica
 7. Identify known individuals.
 8. Perform clothing-based person re-identification.
 9. Display results in the graphical user interface.
+![Home Screen](screenshots/Picture1.jpg)
 
 ---
 
