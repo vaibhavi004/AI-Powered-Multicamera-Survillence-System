@@ -105,11 +105,11 @@ The developed system successfully:
   <tr>
     <td align="center">
       <img src="screenshots/Picture3.png" width="400"><br>
-      <b>Face Detection using Yunet</b>
+      <b>Face Detection using YuNet</b>
     </td>
     <td align="center">
       <img src="screenshots/Picture4.png" width="400"><br>
-      <b>Face Recognition using Facentnet</b>
+      <b>Face Recognition using FaceNet</b>
     </td>
   </tr>
 </table>
@@ -124,6 +124,49 @@ The developed system successfully:
     <td align="center">
       <img src="screenshots/Picture6.png" width="400"><br>
       <b>Clothing Based Re-identification</b>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="screenshots/Picture8.jpg" width="400"><br>
+      <b>Live Webcam Feed</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/Picture9.png" width="400"><br>
+      <b>Cameras</b>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="screenshots/Picture11.jpg" width="400"><br>
+      <b>User Database</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/Picture12.jpg" width="400"><br>
+      <b>User Details</b></b>
+    </td>
+  </tr>
+</table>
+
+## 📸 Adding New User
+
+![Home Screen](screenshots/Picture13.jpg)
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="screenshots/Picture14.jpg" width="400"><br>
+      <b>Restrictions</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/Picture15.jpg" width="400"><br>
+      <b>Restrictions Alert</b></b>
     </td>
   </tr>
 </table>
